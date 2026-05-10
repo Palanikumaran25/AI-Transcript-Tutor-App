@@ -12,3 +12,4 @@ openai
 huggingface-hub
 youtube-transcript-api
 pytube
+psycopg2-binary

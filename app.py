@@ -5,7 +5,7 @@ import streamlit as st  # pyright: ignore[reportMissingImports]
 import streamlit.components.v1 as components  # pyright: ignore[reportMissingImports]
 from langchain_community.embeddings import HuggingFaceEmbeddings  # pyright: ignore[reportMissingImports]
 from langchain_community.vectorstores import FAISS  # pyright: ignore[reportMissingImports]
-from langchain.text_splitter import CharacterTextSplitter  # pyright: ignore[reportMissingImports]
+from langchain_text_splitters import CharacterTextSplitter # pyright: ignore[reportMissingImports]
 from langchain.schema import Document  # pyright: ignore[reportMissingImports]
 from youtube_transcript_api import (  # pyright: ignore[reportMissingImports]
     YouTubeTranscriptApi,

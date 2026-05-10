@@ -1,9 +1,14 @@
 streamlit
-youtube-transcript-api
-python-dotenv
-greenlet>=3.1.1,<3.2
 langchain
 langchain-community
 langchain-openai
+chromadb
+sentence-transformers
 faiss-cpu
+python-dotenv
+pypdf
+tiktoken
 openai
+huggingface-hub
+youtube-transcript-api
+pytube

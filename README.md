@@ -52,8 +52,6 @@ This project solves that problem by allowing users to interact with the video th
 
 --- 
 
----
-
 # 📸 Application Workflow
 
 ```
@@ -81,14 +79,9 @@ User Question
 Similarity Search
       │
       ▼
-LLM
-      │
-      ▼
 Answer + Voice Output
+
 ```
-
----
-
 
 ## Benefits
 
@@ -98,6 +91,18 @@ Answer + Voice Output
 - Easy to use
 - No need to rewatch long videos
 
+---   
+
+# 🌟 Advantages
+
+- Saves learning time
+- Interactive AI tutor
+- Natural language questioning
+- Fast semantic search
+- Easy-to-use interface
+- Supports voice interaction
+- Improves learning experience
+
 ---
 
 ## Future Improvements
@@ -106,6 +111,14 @@ Answer + Voice Output
 - AI-generated notes
 - Quiz generation
 - Better voice interaction
+
+--- 
+
+# 📄 License
+
+This project is developed for educational and learning purposes.
+
+Feel free to fork, improve, and contribute.
 
 ---
 

@@ -1,1 +1,1 @@
-# AI-Transcript-Tutor-Powered-App:
+# AI-Transcript-Powered-Tutor-App:

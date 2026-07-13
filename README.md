@@ -1,5 +1,3 @@
-# AI-Transcript-Powered-Tutor-App:  
-
 # 🎓 AI Transcript Powered Tutor App
 
 ## About the Project
